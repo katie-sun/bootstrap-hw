@@ -1,0 +1,41 @@
+h4{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 33px;
+  font-weight: bold;
+  letter-spacing: 20px;
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+}
+
+h3{
+  font-family: 'Helvetica', sans-serif;
+  letter-spacing: 10px;
+}
+
+h5{
+  letter-spacing: 6px;
+}
+
+p{
+  font-family: 'Helvetica', sans-serif;
+}
+
+.bg-black{
+  background-color: #0D0D0D;
+}
+
+.container{
+  max-width: 95%;
+  margin-top: 10px;
+  padding-bottom: 200px;
+}
+
+.bigspacing{
+  padding-top: 150px;
+}
+
+.nomargin{
+  margin-left: -15px;
+}
